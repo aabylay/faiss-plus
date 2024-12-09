@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/4-GPU.dir/link.d "CMakeFiles/4-GPU.dir/4-GPU.cpp.o" -o 4-GPU  ../../faiss/libfaiss.a /usr/lib/gcc/x86_64-linux-gnu/13/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.a /usr/lib/x86_64-linux-gnu/libopenblas.so -lm -ldl

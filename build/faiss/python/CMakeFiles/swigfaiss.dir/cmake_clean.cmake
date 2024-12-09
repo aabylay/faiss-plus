@@ -1,0 +1,12 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/swigfaiss.dir/link.d"
+  "CMakeFiles/swigfaiss.dir/CMakeFiles/swigfaiss.dir/swigfaissPYTHON_wrap.cxx.o"
+  "CMakeFiles/swigfaiss.dir/CMakeFiles/swigfaiss.dir/swigfaissPYTHON_wrap.cxx.o.d"
+  "_swigfaiss.pdb"
+  "_swigfaiss.so"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/swigfaiss.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

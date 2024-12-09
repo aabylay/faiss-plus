@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/demo_imi_pq.dir/link.d CMakeFiles/demo_imi_pq.dir/demo_imi_pq.cpp.o -o demo_imi_pq  ../faiss/libfaiss.a /usr/lib/gcc/x86_64-linux-gnu/13/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.a /usr/lib/x86_64-linux-gnu/libopenblas.so -lm -ldl

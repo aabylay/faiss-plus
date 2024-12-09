@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/3-IVFPQ.dir/link.d "CMakeFiles/3-IVFPQ.dir/3-IVFPQ.cpp.o" -o 3-IVFPQ  ../../faiss/libfaiss.a /usr/lib/gcc/x86_64-linux-gnu/13/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.a /usr/lib/x86_64-linux-gnu/libopenblas.so -lm -ldl
